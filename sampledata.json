@@ -1,4 +1,12 @@
-[["Johnathan", 33],
-["Mark", 42],
-["Marianna", 29],
-["Barbarah",19]]
+{
+  "columns": [
+    {"id": "name", "name": "Name", "type": "string"},
+    {"id": "age", "name": "Age", "type": "number"}
+  ],
+  "rows": [
+    {"name": "Johnathan", "age": 33},
+    {"name": "Mark", "age": 42},
+    {"name": "Marianna", "age": 29},
+    {"name": "Barbarah", "age": 19}
+  ]
+}
