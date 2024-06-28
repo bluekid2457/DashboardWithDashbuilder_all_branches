@@ -10,7 +10,7 @@ Init the project at least once and:
 
 ```
 npm run bootstrap
-```
+``` 
 
 Then you can build the project:
 
