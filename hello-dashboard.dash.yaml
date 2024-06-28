@@ -6,7 +6,7 @@ datasets:
           [
               ["John", 33],
               ["Mark", 42],
-              ["Mary", 29]
+              ["Marianna", 29]
           ]
 pages:
     - properties:
