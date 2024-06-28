@@ -2,12 +2,7 @@ global:
     mode: dark
 datasets:
     - uuid: hello
-      content: >-
-          [
-              ["John", 33],
-              ["Mark", 42],
-              ["Marianna", 29]
-          ]
+      url: https://raw.githubusercontent.com/bluekid2457/DashboardWithDashbuilder_all_branches/main/sampledata.json
 pages:
     - properties:
         margin: 10px
